@@ -1,10 +1,7 @@
-.col-lg-4{
 
-  background-color: pink;
-}
 h2{
   text-align: center;
 }
-img{
+.container img{
   width: 100%;
 }
