@@ -1,7 +1,10 @@
 .col-lg-4{
-  height: 10px;
+
   background-color: pink;
 }
 h2{
   text-align: center;
+}
+img{
+  width: 100%;
 }
